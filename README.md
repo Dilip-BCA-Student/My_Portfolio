@@ -55,6 +55,3 @@ The "Download CV" section provides a link to download Dilip's up-to-date Curricu
 
 The submission form allows visitors to submit inquiries or messages. Upon submission, a confirmation message assures visitors that their inquiry has been received.
 
----
-
-Feel free to further customize this documentation to match your preferences and website design.
